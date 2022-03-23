@@ -1,0 +1,11 @@
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\bin\Debug\Michaeltask1.exe.config
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\bin\Debug\Michaeltask1.exe
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\bin\Debug\Michaeltask1.pdb
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.csproj.AssemblyReference.cache
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.Form1.resources
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.Properties.Resources.resources
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.csproj.GenerateResource.cache
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.csproj.CoreCompileInputs.cache
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.exe
+C:\Users\PhucDatBich\source\repos\Michaeltask1\Michaeltask1\obj\Debug\Michaeltask1.pdb
